@@ -1,9 +1,8 @@
-![Dino](https://raw.githubusercontent.com/maulana421/maulana421/master/dino.gif)
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulana421&label=Views&color=blue&style=plastic" alt="maulana" /> </p>
-
 
 <a href="#">
   <img align="left" alt="maulana Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
