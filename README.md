@@ -1,7 +1,7 @@
 # Hai, selamat datang di github saya 👋
 
 
-
+![Dino](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/dino.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulana421&label=Views&color=blue&style=plastic" alt="maulana" /> </p>
