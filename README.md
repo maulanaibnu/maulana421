@@ -1,6 +1,6 @@
-#Hai, selamat datang di github saya 👋
+# Hai, selamat datang di github saya 👋
 
-![Dino](https://raw.githubusercontent.com/maulana421/maulana421/master/dino.gif)
+
 
 
 
