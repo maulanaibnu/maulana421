@@ -1,4 +1,4 @@
-# Hai, selamat datang di github saya 👋
+# Hai, welcome everybody - Maulana ibnu f 👋
 
 
 ![Dino](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/dino.gif)
