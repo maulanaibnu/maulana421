@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Maulana</h1>
-<h4 align="center">Orang Baik</h4>
+<h4 align="center">بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ
+"Carilah orang baik di sekitarmu. Jika tidak ada, jadilah orang baik diantara mereka."
+</h4>
 </div>
 
 <div align="center">
