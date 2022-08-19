@@ -10,10 +10,10 @@
 </div>
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ contact</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">Follow me at social media</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/maulanaibnufajar-5643ab246/" target="blank"><img align="center"
