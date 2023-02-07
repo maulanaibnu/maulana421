@@ -44,7 +44,8 @@
       <br/>
         <p align="center">
           <a href="https://github.com/maulana421">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulana421&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulana421&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="maulana421 :: overall Top Langs " /></a>
         </p>
         <p align="center">
           <a href="https://github.com/maulana421">
